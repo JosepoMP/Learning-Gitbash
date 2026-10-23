@@ -160,7 +160,5 @@ The usual workflow for saving and uploading changes is:
 ---
 
 <p align="center">
-  <b>Built with curiosity, consistency, and a lot of practice. 🧡</b>
-  <br />
-  <i>One command at a time.</i>
+  <b>Q divertido</b>
 </p>
