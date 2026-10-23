@@ -1,5 +1,4 @@
 # ⚡ Git Bash — My Learning Notes
----
 
 ## 📌 About this repository
 
